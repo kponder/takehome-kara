@@ -38,7 +38,7 @@ The task is this: __which companies inside the XBI index were hit the hardest by
 This problem is equally graded on a candidate's ability to communicate their thought process as it is their ability
 to pull and extract meaningful data for a problem.
 
-If you have any questions please reach out to Han at han.li@pivotallifesciences.com.
+If you have any questions please reach out to Han at chiara.biondi@pivotallifesciences.com.
 
 ### Exercise 3: Reddit Data 
 
